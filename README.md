@@ -8,4 +8,4 @@
 
 ***
 
-#### As minhas modificações foram uma leve mudança no layout e a adição de um script feito em js. O script é um relógio digital.
+#### As minhas modificações foram uma leve mudança no layout e a adição de um script feito em js. O script é um relógio-calendário digital.
